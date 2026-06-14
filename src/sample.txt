@@ -1,2 +1,0 @@
-Hello, this is Task 1 File Handling Program.
-This line is added during file modification.
